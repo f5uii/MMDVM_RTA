@@ -1,5 +1,5 @@
 # MMDVM_activity
-Publish repeater activity on a webserver
+Publish repeater activity on a public webserver, independent of the network (BM, or what else), by exploiting MMDVM logs.
 
 
 ## Requires
@@ -13,3 +13,6 @@ Publish repeater activity on a webserver
 apt-get update
 apt-get install curl libcurl3 php5-curl
 ```
+
+## Thanks
+The MMDVM log treatment is MW0MWZ functions script included in the famous [pi-star](http://www.pistar.uk/).
