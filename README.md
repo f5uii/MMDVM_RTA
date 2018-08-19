@@ -8,10 +8,11 @@ Publish repeater activity on a public webserver, independent of the network (BM,
 + php on public webserver
 + MySQL on public webserver
 
-### Installation Curl with :
+### Installation On repeater  with :
 ```
 apt-get update
 apt-get install curl libcurl3 php5-curl
+apt-get install php5-cli
 ```
 
 ## Thanks
