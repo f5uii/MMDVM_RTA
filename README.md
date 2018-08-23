@@ -1,4 +1,4 @@
-# MMDVM_activity
+# MMDVM RTA
 Publish repeater activity on a public webserver, independent of the network (BM, or what else), by exploiting MMDVM logs.
 ![MMDVM RealTime Activity Synoptic](https://github.com/f5uii/MMDVM_activity/blob/master/MMDVM%20RTA%20synop.png?raw=true)
 
